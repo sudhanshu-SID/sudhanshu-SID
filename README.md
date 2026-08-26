@@ -7,7 +7,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/sudhanshu-SID">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Sudhanshu;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Sudhanshu;Full+Stack+Developer;AI+Agent+Solutions;Interactive+Websites" alt="typing banner">
 </a>
 
 <br>
@@ -31,8 +31,7 @@
 - A wanna be creator
 ```
 
-Hi, I'm **Sudhanshu**. I build things that sit somewhere between machine learning and the web,
-and I solve problems for fun when neither of those is cooperating.
+Hi, I'm **Sudhanshu**. I am a full stack developer who designs solutions and sites using AI agents and I love to make interactive websites.
 
 - Currently building **[get-it-done](https://get-it-done-seven-pi.vercel.app/)**
 - Portfolio: **[sidcreates.com](https://www.sidcreates.com/)**
@@ -85,16 +84,16 @@ and I solve problems for fun when neither of those is cooperating.
 
 <td width="50%" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.plugin.languages.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.plugin.languages.svg">
-    <img src="assets/metrics.plugin.languages.svg" width="420" alt="language breakdown">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.languages.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.languages.svg">
+    <img src="assets/metrics.languages.svg" width="420" alt="language breakdown">
   </picture>
 </td>
 <td width="50%" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.plugin.achievements.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.plugin.achievements.svg">
-    <img src="assets/metrics.plugin.achievements.svg" width="420" alt="achievements">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.achievements.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.achievements.svg">
+    <img src="assets/metrics.achievements.svg" width="420" alt="achievements">
   </picture>
 </td>
 
