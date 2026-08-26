@@ -111,7 +111,7 @@ Hi, I'm **Sudhanshu**. I am a full stack developer who loves to build dynamic, i
 
 ---
 
-### 05. PROJECTS
+<!-- ### 05. PROJECTS
 
 <div align="center">
 
@@ -155,4 +155,4 @@ Hi, I'm **Sudhanshu**. I am a full stack developer who loves to build dynamic, i
     </td>
   </tr></table>
 
-</div>
+</div> -->
