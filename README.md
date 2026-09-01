@@ -17,7 +17,7 @@
 <a href="mailto:sudhanshu7536@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.sidcreates.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://takeuforward.org/profile/lets_start_coding"><img src="https://img.shields.io/badge/TakeUForward-DC2626?style=for-the-badge&logoColor=white" alt="TakeUForward"></a>
-<!-- <a href="https://x.com/ConFuseD_ATma_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a> -->
+<a href="https://x.com/ConFuseD_ATma_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
 
 <img src="https://komarev.com/ghpvc/?username=sudhanshu-SID&style=flat&color=39d353&label=profile+views" alt="profile views">
 
